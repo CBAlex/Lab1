@@ -1,0 +1,23 @@
+Script started on 2015年03月17日 (週二) 00時25分20秒
+]0;F74004046@2015cpp: ~/lab1F74004046@2015cpp:~/lab1$ whoamil[Kl[K;ped[K[Kwd
+F74004046
+/home/F74004046/lab1
+]0;F74004046@2015cpp: ~/lab1F74004046@2015cpp:~/lab1$ git congi[K[Kfig -l
+user.name=CBAlex
+user.email=F74004046@ncku.edu.tw
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/CBAlex/Lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+]0;F74004046@2015cpp: ~/lab1F74004046@2015cpp:~/lab1$ git clone https://github.com/<your github account>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P>/lab1.git[1P/lab1.gitC/lab1.gitB/lab1.gitA/lab1.gitl/lab1.gite/lab1.gitx/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74004046@2015cpp: ~/lab1F74004046@2015cpp:~/lab1$ ls
+[0m[01;34mlab1[0m  lab1.script
+]0;F74004046@2015cpp: ~/lab1F74004046@2015cpp:~/lab1$ ^C
+]0;F74004046@2015cpp: ~/lab1F74004046@2015cpp:~/lab1$ vim lab1.script
+[?1049h[?1h=[1;29r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[29;1H"lab1.script" 0L, 0C[>c[2;1H[1m[34m~                                                                                               [3;1H~                                                                                               [4;1H~                                                                                               [5;1H~                                                                                               [6;1H~                                                                                               [7;1H~                                                                                               [8;1H~                                                                                               [9;1H~                                                                                               [10;1H~                                                                                               [11;1H~                                                                                               [12;1H~                                                                                               [13;1H~                                                                                               [14;1H~                                                                                               [15;1H~                                                                                               [16;1H~                                                                                               [17;1H~                                                                                               [18;1H~                                                                                               [19;1H~                                                                                               [20;1H~                                                                                               [21;1H~                                                                                               [22;1H~                                                                                               [23;1H~                                                                                               [24;1H~                                                                                               [25;1H~                                                                                               [26;1H~                                                                                               [27;1H~                                                                                               [28;1H~                                                                                               [m[29;79H0,0-1[8C全部[1;1H[?12l[?25h[?25l[29;1H[K[29;1H:[?12l[?25hq[?25l[?12l[?25h![?25l[?12l[?25h[?25l[29;1H[K[29;1H[?1l>[?12l[?25h[?1049l]0;F74004046@2015cpp: ~/lab1F74004046@2015cpp:~/lab1$ exit
+
+Script done on 2015年03月17日 (週二) 00時30分44秒
